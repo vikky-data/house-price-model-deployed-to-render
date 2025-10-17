@@ -77,7 +77,6 @@ parso==0.8.5
 pi==0.1.2
 pickleshare==0.7.5
 pillow==11.2.1
-pipreqs==0.5.0
 platformdirs==4.4.0
 plotly==5.22.0
 pluggy==1.6.0
@@ -93,7 +92,6 @@ pydantic_core==2.33.2
 Pygments==2.19.2
 PyMySQL==1.1.1
 pyparsing==3.2.3
-pytest==8.4.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
 pytz==2025.2
